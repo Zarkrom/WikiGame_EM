@@ -1,0 +1,14 @@
+{
+  "CHOICE_YOUR_LANGUAGE": "Choose your language",
+  "PREVIOUS_PAGE": "Previous page",
+  "NEXT_PAGE": "Next page",
+  "CURRENT_PAGE": "Current page : ",
+  "PAGES": "Page: {}/{}",
+  "BACK": "Back",
+  "FORWARD": "Forward",
+  "START": "Start: ",
+  "TARGET": "Target : ",
+  "ROUND": "Round : ",
+  "FR": "Français",
+  "EN": "English"
+}

@@ -1,0 +1,29 @@
+A installer :
+    - beautifulsoup4~=4.11.1
+    - Unidecode~=1.3.6
+    - tk
+
+
+Installer PIP :
+    - Télécharger get-pip.py
+    - Exécutez le : python get-pip.py
+
+Ensuite installez les trois bibliothèques citées précédement.
+
+pip3 install beautifulsoup4
+pip3 install unicode
+pip3 install tk
+
+
+Les dernières versions seront normalement installées mais vous pouvez faire
+les commandes suivantes pour être sûr qu'elles soient bien à jour :
+
+pip3 install beautifulsoup4 --upgrade
+pip3 install unicode --upgrade
+pip3 install tk --upgrade
+
+
+Pour lancer le programme, dans votre IDE : run app.py
+Pour lancer le programme dans votre CMD : Mettez vous dans le répertoire à la racine du projet puis -> py app.py
+
+Pour arrêter le programme, il suffit de fermer la fenêtre.
